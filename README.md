@@ -36,7 +36,8 @@ The Overview page includes:<img width="1277" height="732" alt="HR_Analytics_Over
 * Department-wise Employee Count
 * Age Group Distribution
 
-Interactive slicers allow users to filter the Overview page by Department, Job Role, Age Group, and Gender.This page provides an overview of employee count, attrition, gender distribution, department-wise employee count, and age-group distribution.
+Interactive slicers allow users to filter the Overview page by Department, Job Role, Age Group, and Gender.
+This page provides an overview of employee count, attrition, gender distribution, department-wise employee count, and age-group distribution.
 
 ### 2. HR Analytics Deep Dive
 
@@ -82,4 +83,8 @@ The repository contains the Power BI report, dashboard screenshots, SQL analysis
 ## Conclusion
 
 This project demonstrates how HR data can be analyzed and presented through an interactive dashboard to support workforce analysis and data-driven decision-making.
+
+## Connect With Me
+
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/analystdeepak/)
 
