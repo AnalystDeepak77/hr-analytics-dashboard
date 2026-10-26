@@ -6,22 +6,6 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 
 The dashboard helps users explore employee data, identify attrition patterns, and understand workforce-related insights through interactive visualizations.
 
-## Dashboard Screenshots
-
-### 1. HR Analytics Overview
-
-<img width="1277" height="732" alt="HR_Analytics_Overview" src="https://github.com/user-attachments/assets/c397f57c-d091-4441-8761-fa3039615ca3" />
-
-
-This page provides an overview of employee count, attrition, gender distribution, department-wise employee count, and age-group distribution.
-
-### 2. HR Analytics Deep Dive
-
-<img width="1281" height="729" alt="HR_Analytics_Deep_Dive" src="https://github.com/user-attachments/assets/133bd0b5-7773-44f3-ba77-b4d15abaecc5" />
-
-This page provides a deeper analysis of job satisfaction, work-life balance, attrition by age group, job role and tenure group, and average monthly income by department.
-
-
 ## Project Objectives
 
 * Analyze overall employee count and attrition.
@@ -41,7 +25,7 @@ This page provides a deeper analysis of job satisfaction, work-life balance, att
 
 ### 1. HR Analytics Overview
 
-The Overview page includes:
+The Overview page includes:<img width="1277" height="732" alt="HR_Analytics_Overview" src="https://github.com/user-attachments/assets/c397f57c-d091-4441-8761-fa3039615ca3" />
 
 * Total Employees
 * Employees Left
@@ -52,11 +36,11 @@ The Overview page includes:
 * Department-wise Employee Count
 * Age Group Distribution
 
-Interactive slicers allow users to filter the Overview page by Department, Job Role, Age Group, and Gender.
+Interactive slicers allow users to filter the Overview page by Department, Job Role, Age Group, and Gender.This page provides an overview of employee count, attrition, gender distribution, department-wise employee count, and age-group distribution.
 
 ### 2. HR Analytics Deep Dive
 
-The Deep Dive page explores:
+The Deep Dive page explores:<img width="1281" height="729" alt="HR_Analytics_Deep_Dive" src="https://github.com/user-attachments/assets/133bd0b5-7773-44f3-ba77-b4d15abaecc5" />
 
 * Job Satisfaction Analysis
 * Work-Life Balance Analysis
@@ -66,6 +50,7 @@ The Deep Dive page explores:
 * Department-wise Average Monthly Income
 
 The report is designed to help users explore workforce patterns in greater detail.
+This page provides a deeper analysis of job satisfaction, work-life balance, attrition by age group, job role and tenure group, and average monthly income by department.
 
 ## Key Metrics
 
